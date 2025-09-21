@@ -5,14 +5,6 @@
 다양한 프로젝트들을 학습하고 기록하는 공간입니다.
 
 ---
-# 트레이딩 아카이브
-본 아카이브는 저의 X(Twitter) 트레이딩 로그의 핵심 내용을 요약 및 분석한 것입니다. 전체 원본 기록은 아래 링크(*로그인 필요*)에서 확인하실 수 있습니다.
-[https://x.com/SeoulTrader_](https://x.com/SeoulTrader_)
-
-![Uploading image.png…]()
-
-
----
 # **Project List**
 
 **1. [01_BTC_data: 비트코인 데이터 분석 및 시각화](./01_BTC_data)**
